@@ -15,11 +15,12 @@ This is a blog review card designed using plain html and css, ensured resposiven
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot1.png)
+![](./Screenshot2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My Process
