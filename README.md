@@ -21,7 +21,7 @@ This is a blog review card designed using plain html and css, ensured resposiven
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View website here](https://maryam-hytham.github.io/Blog-preview-card/)
 
 ## My Process
 
