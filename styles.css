@@ -27,10 +27,12 @@ body {
   overflow: hidden;
   border: 2px solid hsl(0, 0%, 7%);
   box-shadow: 8px 8px 0 black;
-  transition: box-shadow 0.5s ease;
+  transition: all 0.5s ease;
 }
 .card:hover {
   box-shadow: 15px 15px 0 black;
+  transform: translate(-5px, -5px);
+  cursor: pointer;
 }
 .card:hover .card__title {
   color: hsl(47, 88%, 63%);
